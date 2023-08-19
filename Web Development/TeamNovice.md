@@ -2,7 +2,7 @@ PROJECT NAME - Hasta Tanta
 
 DOMAIN - Web Development
 
-LINK - 
+LINK - https://github.com/Piyush-Here/HastaTanata
 
 ABOUT PROJECT - Indian artisans are not often not recognised. Even if they do, a year round proper platform is not given.Festivals like toshali promote 
 handmade fabrics and many such festivals do give a voice and platform to the artist but its not enough to feed them year round. HastaTanata is an e commerce
